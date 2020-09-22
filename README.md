@@ -25,7 +25,7 @@ There are  4 notebooks here of the analysis conducted to answer the above questi
 - **File 4:** Contains the analysis conducted to answer the question: What are the trends of programming languages between 2018 and 2020?
 
 ## Results
-The main findings of the code can be found at the post available here. (medium link)
+The main findings of the code can be found at the post available [here](https://medium.com/@laila.mamh/do-developers-influence-technology-adaptation-ef1a94c0a6d4).
 And here is a summary of the results of the analysis:
 
 
